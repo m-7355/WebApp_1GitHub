@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\2190041\\Desktop\\JPT\u95A2\u4FC2\\\u30BD\u30B1\u30C3\u30C8\u901A\u4FE1\\web\u30A2\u30D7\u30EA\\WebApp_1GitHub\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B74CB77-1314-4A07-9B08-7854EC816F3C}|KintaiApp\\KintaiApp.csproj|c:\\users\\2190041\\desktop\\jpt\u95A2\u4FC2\\\u30BD\u30B1\u30C3\u30C8\u901A\u4FE1\\web\u30A2\u30D7\u30EA\\webapp_1github\\kintaiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B74CB77-1314-4A07-9B08-7854EC816F3C}|KintaiApp\\KintaiApp.csproj|solutionrelative:kintaiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2190041\\Desktop\\JPT\u95A2\u4FC2\\\u30BD\u30B1\u30C3\u30C8\u901A\u4FE1\\web\u30A2\u30D7\u30EA\\WebApp_1GitHub\\KintaiApp\\Program.cs",
+              "RelativeDocumentMoniker": "KintaiApp\\Program.cs",
+              "ToolTip": "C:\\Users\\2190041\\Desktop\\JPT\u95A2\u4FC2\\\u30BD\u30B1\u30C3\u30C8\u901A\u4FE1\\web\u30A2\u30D7\u30EA\\WebApp_1GitHub\\KintaiApp\\Program.cs",
+              "RelativeToolTip": "KintaiApp\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T12:37:40.944Z",
+              "EditorCaption": ""
             }
           ]
         }
