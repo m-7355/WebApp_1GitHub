@@ -1,0 +1,16 @@
+C:\Users\2190041\Desktop\JPT関係\ソケット通信\webアプリ\WebApp_1GitHub\KintaiApp\bin\Debug\net8.0-windows\KintaiApp.exe
+C:\Users\2190041\Desktop\JPT関係\ソケット通信\webアプリ\WebApp_1GitHub\KintaiApp\bin\Debug\net8.0-windows\KintaiApp.deps.json
+C:\Users\2190041\Desktop\JPT関係\ソケット通信\webアプリ\WebApp_1GitHub\KintaiApp\bin\Debug\net8.0-windows\KintaiApp.runtimeconfig.json
+C:\Users\2190041\Desktop\JPT関係\ソケット通信\webアプリ\WebApp_1GitHub\KintaiApp\bin\Debug\net8.0-windows\KintaiApp.dll
+C:\Users\2190041\Desktop\JPT関係\ソケット通信\webアプリ\WebApp_1GitHub\KintaiApp\bin\Debug\net8.0-windows\KintaiApp.pdb
+C:\Users\2190041\Desktop\JPT関係\ソケット通信\webアプリ\WebApp_1GitHub\KintaiApp\obj\Debug\net8.0-windows\KintaiApp.csproj.GenerateResource.cache
+C:\Users\2190041\Desktop\JPT関係\ソケット通信\webアプリ\WebApp_1GitHub\KintaiApp\obj\Debug\net8.0-windows\KintaiApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2190041\Desktop\JPT関係\ソケット通信\webアプリ\WebApp_1GitHub\KintaiApp\obj\Debug\net8.0-windows\KintaiApp.AssemblyInfoInputs.cache
+C:\Users\2190041\Desktop\JPT関係\ソケット通信\webアプリ\WebApp_1GitHub\KintaiApp\obj\Debug\net8.0-windows\KintaiApp.AssemblyInfo.cs
+C:\Users\2190041\Desktop\JPT関係\ソケット通信\webアプリ\WebApp_1GitHub\KintaiApp\obj\Debug\net8.0-windows\KintaiApp.csproj.CoreCompileInputs.cache
+C:\Users\2190041\Desktop\JPT関係\ソケット通信\webアプリ\WebApp_1GitHub\KintaiApp\obj\Debug\net8.0-windows\KintaiApp.dll
+C:\Users\2190041\Desktop\JPT関係\ソケット通信\webアプリ\WebApp_1GitHub\KintaiApp\obj\Debug\net8.0-windows\refint\KintaiApp.dll
+C:\Users\2190041\Desktop\JPT関係\ソケット通信\webアプリ\WebApp_1GitHub\KintaiApp\obj\Debug\net8.0-windows\KintaiApp.pdb
+C:\Users\2190041\Desktop\JPT関係\ソケット通信\webアプリ\WebApp_1GitHub\KintaiApp\obj\Debug\net8.0-windows\KintaiApp.genruntimeconfig.cache
+C:\Users\2190041\Desktop\JPT関係\ソケット通信\webアプリ\WebApp_1GitHub\KintaiApp\obj\Debug\net8.0-windows\ref\KintaiApp.dll
+C:\Users\2190041\Desktop\JPT関係\ソケット通信\webアプリ\WebApp_1GitHub\KintaiApp\obj\Debug\net8.0-windows\KintaiApp.LoginForm.resources
