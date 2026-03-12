@@ -1,0 +1,25 @@
+# Visual Studio キャッシュ
+.vs/
+
+# ビルド成果物（毎回自動生成される）
+bin/
+obj/
+
+# ユーザー固有の設定ファイル（共有するとトラブルの元）
+*.user
+*.suo
+
+# 一時ファイル・ログ
+*.log
+
+# 自動生成される DLL / EXE
+*.dll
+*.exe
+
+# パッケージ関連（必要に応じて）
+packages/
+*.nupkg
+
+# OSごとの不要ファイル
+Thumbs.db
+.DS_Store

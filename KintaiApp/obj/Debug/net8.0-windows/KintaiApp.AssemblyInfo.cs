@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KintaiApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29f5563fdd2427ef914c64bc88a53a8310824a83")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a12c92b775aa631ee71b26abdeba53386a087965")]
 [assembly: System.Reflection.AssemblyProductAttribute("KintaiApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KintaiApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
