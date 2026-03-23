@@ -73,6 +73,7 @@
             Login_Buttom.TabIndex = 7;
             Login_Buttom.Text = "ログイン";
             Login_Buttom.UseVisualStyleBackColor = true;
+            Login_Buttom.Click += Login_Buttom_Click;
             // 
             // Keep_CheckBox
             // 
